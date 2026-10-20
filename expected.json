@@ -1,0 +1,1160 @@
+[
+ {
+  "fn": "lawTruth",
+  "args": [
+   "0.01",
+   "0.01"
+  ],
+  "expected": "0.01 V across 0.01 \u03a9 carries 1000 mA and turns 0.01 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "0.01",
+   "1"
+  ],
+  "expected": "0.01 V across 1 \u03a9 carries 10 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "0.01",
+   "4.7"
+  ],
+  "expected": "0.01 V across 4.7 \u03a9 carries 2.13 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "0.01",
+   "330"
+  ],
+  "expected": "0.01 V across 330 \u03a9 carries 0.03 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "0.01",
+   "470"
+  ],
+  "expected": "0.01 V across 470 \u03a9 carries 0.02 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "0.01",
+   "10000"
+  ],
+  "expected": "0.01 V across 10000 \u03a9 carries 0 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "0.01",
+   "9999999.99"
+  ],
+  "expected": "0.01 V across 9999999.99 \u03a9 carries 0 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "0.01",
+   "10000000"
+  ],
+  "expected": "0.01 V across 10000000 \u03a9 carries 0 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1.5",
+   "0.01"
+  ],
+  "expected": "1.5 V across 0.01 \u03a9 carries 150000 mA and turns 225 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1.5",
+   "1"
+  ],
+  "expected": "1.5 V across 1 \u03a9 carries 1500 mA and turns 2.25 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1.5",
+   "4.7"
+  ],
+  "expected": "1.5 V across 4.7 \u03a9 carries 319.15 mA and turns 0.48 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1.5",
+   "330"
+  ],
+  "expected": "1.5 V across 330 \u03a9 carries 4.55 mA and turns 0.01 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1.5",
+   "470"
+  ],
+  "expected": "1.5 V across 470 \u03a9 carries 3.19 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1.5",
+   "10000"
+  ],
+  "expected": "1.5 V across 10000 \u03a9 carries 0.15 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1.5",
+   "9999999.99"
+  ],
+  "expected": "1.5 V across 9999999.99 \u03a9 carries 0 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1.5",
+   "10000000"
+  ],
+  "expected": "1.5 V across 10000000 \u03a9 carries 0 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "5",
+   "0.01"
+  ],
+  "expected": "5 V across 0.01 \u03a9 carries 500000 mA and turns 2500 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "5",
+   "1"
+  ],
+  "expected": "5 V across 1 \u03a9 carries 5000 mA and turns 25 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "5",
+   "4.7"
+  ],
+  "expected": "5 V across 4.7 \u03a9 carries 1063.83 mA and turns 5.32 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "5",
+   "330"
+  ],
+  "expected": "5 V across 330 \u03a9 carries 15.15 mA and turns 0.08 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "5",
+   "470"
+  ],
+  "expected": "5 V across 470 \u03a9 carries 10.64 mA and turns 0.05 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "5",
+   "10000"
+  ],
+  "expected": "5 V across 10000 \u03a9 carries 0.5 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "5",
+   "9999999.99"
+  ],
+  "expected": "5 V across 9999999.99 \u03a9 carries 0 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "5",
+   "10000000"
+  ],
+  "expected": "5 V across 10000000 \u03a9 carries 0 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "0.01"
+  ],
+  "expected": "12 V across 0.01 \u03a9 carries 1200000 mA and turns 14400 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "1"
+  ],
+  "expected": "12 V across 1 \u03a9 carries 12000 mA and turns 144 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "4.7"
+  ],
+  "expected": "12 V across 4.7 \u03a9 carries 2553.19 mA and turns 30.64 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "330"
+  ],
+  "expected": "12 V across 330 \u03a9 carries 36.36 mA and turns 0.44 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "470"
+  ],
+  "expected": "12 V across 470 \u03a9 carries 25.53 mA and turns 0.31 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "10000"
+  ],
+  "expected": "12 V across 10000 \u03a9 carries 1.2 mA and turns 0.01 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "9999999.99"
+  ],
+  "expected": "12 V across 9999999.99 \u03a9 carries 0 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "10000000"
+  ],
+  "expected": "12 V across 10000000 \u03a9 carries 0 mA and turns 0 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "230.5",
+   "0.01"
+  ],
+  "expected": "230.5 V across 0.01 \u03a9 carries 23050000 mA and turns 5313025 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "230.5",
+   "1"
+  ],
+  "expected": "230.5 V across 1 \u03a9 carries 230500 mA and turns 53130.25 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "230.5",
+   "4.7"
+  ],
+  "expected": "230.5 V across 4.7 \u03a9 carries 49042.55 mA and turns 11304.31 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "230.5",
+   "330"
+  ],
+  "expected": "230.5 V across 330 \u03a9 carries 698.48 mA and turns 161 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "230.5",
+   "470"
+  ],
+  "expected": "230.5 V across 470 \u03a9 carries 490.43 mA and turns 113.04 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "230.5",
+   "10000"
+  ],
+  "expected": "230.5 V across 10000 \u03a9 carries 23.05 mA and turns 5.31 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "230.5",
+   "9999999.99"
+  ],
+  "expected": "230.5 V across 9999999.99 \u03a9 carries 0.02 mA and turns 0.01 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "230.5",
+   "10000000"
+  ],
+  "expected": "230.5 V across 10000000 \u03a9 carries 0.02 mA and turns 0.01 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1000",
+   "0.01"
+  ],
+  "expected": "1000 V across 0.01 \u03a9 carries 100000000 mA and turns 100000000 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1000",
+   "1"
+  ],
+  "expected": "1000 V across 1 \u03a9 carries 1000000 mA and turns 1000000 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1000",
+   "4.7"
+  ],
+  "expected": "1000 V across 4.7 \u03a9 carries 212765.96 mA and turns 212765.96 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1000",
+   "330"
+  ],
+  "expected": "1000 V across 330 \u03a9 carries 3030.3 mA and turns 3030.3 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1000",
+   "470"
+  ],
+  "expected": "1000 V across 470 \u03a9 carries 2127.66 mA and turns 2127.66 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1000",
+   "10000"
+  ],
+  "expected": "1000 V across 10000 \u03a9 carries 100 mA and turns 100 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1000",
+   "9999999.99"
+  ],
+  "expected": "1000 V across 9999999.99 \u03a9 carries 0.1 mA and turns 0.1 W into heat."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1000",
+   "10000000"
+  ],
+  "expected": "1000 V across 10000000 \u03a9 carries 0.1 mA and turns 0.1 W into heat."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "0.01",
+   "1",
+   "1"
+  ],
+  "expected": "With 0.01 V across 1 \u03a9 over 1 \u03a9 in series, the join sits at 0.01 V and the pair carries 5 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0.01",
+   "1",
+   "1"
+  ],
+  "expected": "With 0.01 V across 1 \u03a9 and 1 \u03a9 side by side, the pair acts like 0.5 \u03a9 and draws 20 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "0.01",
+   "330",
+   "470"
+  ],
+  "expected": "With 0.01 V across 330 \u03a9 over 470 \u03a9 in series, the join sits at 0.01 V and the pair carries 0.01 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0.01",
+   "330",
+   "470"
+  ],
+  "expected": "With 0.01 V across 330 \u03a9 and 470 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 0.05 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "0.01",
+   "100",
+   "10000"
+  ],
+  "expected": "With 0.01 V across 100 \u03a9 over 10000 \u03a9 in series, the join sits at 0.01 V and the pair carries 0 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0.01",
+   "100",
+   "10000"
+  ],
+  "expected": "With 0.01 V across 100 \u03a9 and 10000 \u03a9 side by side, the pair acts like 99.01 \u03a9 and draws 0.1 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "0.01",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 0.01 V across 0.01 \u03a9 over 0.02 \u03a9 in series, the join sits at 0.01 V and the pair carries 333.33 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0.01",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 0.01 V across 0.01 \u03a9 and 0.02 \u03a9 side by side, the pair acts like 0.01 \u03a9 and draws 1500 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "0.01",
+   "470",
+   "330"
+  ],
+  "expected": "With 0.01 V across 470 \u03a9 over 330 \u03a9 in series, the join sits at 0 V and the pair carries 0.01 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0.01",
+   "470",
+   "330"
+  ],
+  "expected": "With 0.01 V across 470 \u03a9 and 330 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 0.05 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1.5",
+   "1",
+   "1"
+  ],
+  "expected": "With 1.5 V across 1 \u03a9 over 1 \u03a9 in series, the join sits at 0.75 V and the pair carries 750 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.5",
+   "1",
+   "1"
+  ],
+  "expected": "With 1.5 V across 1 \u03a9 and 1 \u03a9 side by side, the pair acts like 0.5 \u03a9 and draws 3000 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1.5",
+   "330",
+   "470"
+  ],
+  "expected": "With 1.5 V across 330 \u03a9 over 470 \u03a9 in series, the join sits at 0.88 V and the pair carries 1.88 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.5",
+   "330",
+   "470"
+  ],
+  "expected": "With 1.5 V across 330 \u03a9 and 470 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 7.74 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1.5",
+   "100",
+   "10000"
+  ],
+  "expected": "With 1.5 V across 100 \u03a9 over 10000 \u03a9 in series, the join sits at 1.49 V and the pair carries 0.15 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.5",
+   "100",
+   "10000"
+  ],
+  "expected": "With 1.5 V across 100 \u03a9 and 10000 \u03a9 side by side, the pair acts like 99.01 \u03a9 and draws 15.15 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1.5",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 1.5 V across 0.01 \u03a9 over 0.02 \u03a9 in series, the join sits at 1 V and the pair carries 50000 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.5",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 1.5 V across 0.01 \u03a9 and 0.02 \u03a9 side by side, the pair acts like 0.01 \u03a9 and draws 225000 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1.5",
+   "470",
+   "330"
+  ],
+  "expected": "With 1.5 V across 470 \u03a9 over 330 \u03a9 in series, the join sits at 0.62 V and the pair carries 1.88 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.5",
+   "470",
+   "330"
+  ],
+  "expected": "With 1.5 V across 470 \u03a9 and 330 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 7.74 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "5",
+   "1",
+   "1"
+  ],
+  "expected": "With 5 V across 1 \u03a9 over 1 \u03a9 in series, the join sits at 2.5 V and the pair carries 2500 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "5",
+   "1",
+   "1"
+  ],
+  "expected": "With 5 V across 1 \u03a9 and 1 \u03a9 side by side, the pair acts like 0.5 \u03a9 and draws 10000 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "5",
+   "330",
+   "470"
+  ],
+  "expected": "With 5 V across 330 \u03a9 over 470 \u03a9 in series, the join sits at 2.94 V and the pair carries 6.25 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "5",
+   "330",
+   "470"
+  ],
+  "expected": "With 5 V across 330 \u03a9 and 470 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 25.79 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "5",
+   "100",
+   "10000"
+  ],
+  "expected": "With 5 V across 100 \u03a9 over 10000 \u03a9 in series, the join sits at 4.95 V and the pair carries 0.5 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "5",
+   "100",
+   "10000"
+  ],
+  "expected": "With 5 V across 100 \u03a9 and 10000 \u03a9 side by side, the pair acts like 99.01 \u03a9 and draws 50.5 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "5",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 5 V across 0.01 \u03a9 over 0.02 \u03a9 in series, the join sits at 3.33 V and the pair carries 166666.67 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "5",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 5 V across 0.01 \u03a9 and 0.02 \u03a9 side by side, the pair acts like 0.01 \u03a9 and draws 750000 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "5",
+   "470",
+   "330"
+  ],
+  "expected": "With 5 V across 470 \u03a9 over 330 \u03a9 in series, the join sits at 2.06 V and the pair carries 6.25 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "5",
+   "470",
+   "330"
+  ],
+  "expected": "With 5 V across 470 \u03a9 and 330 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 25.79 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "12",
+   "1",
+   "1"
+  ],
+  "expected": "With 12 V across 1 \u03a9 over 1 \u03a9 in series, the join sits at 6 V and the pair carries 6000 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "1",
+   "1"
+  ],
+  "expected": "With 12 V across 1 \u03a9 and 1 \u03a9 side by side, the pair acts like 0.5 \u03a9 and draws 24000 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "12",
+   "330",
+   "470"
+  ],
+  "expected": "With 12 V across 330 \u03a9 over 470 \u03a9 in series, the join sits at 7.05 V and the pair carries 15 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "330",
+   "470"
+  ],
+  "expected": "With 12 V across 330 \u03a9 and 470 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 61.9 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "12",
+   "100",
+   "10000"
+  ],
+  "expected": "With 12 V across 100 \u03a9 over 10000 \u03a9 in series, the join sits at 11.88 V and the pair carries 1.19 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "100",
+   "10000"
+  ],
+  "expected": "With 12 V across 100 \u03a9 and 10000 \u03a9 side by side, the pair acts like 99.01 \u03a9 and draws 121.2 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "12",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 12 V across 0.01 \u03a9 over 0.02 \u03a9 in series, the join sits at 8 V and the pair carries 400000 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 12 V across 0.01 \u03a9 and 0.02 \u03a9 side by side, the pair acts like 0.01 \u03a9 and draws 1800000 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "12",
+   "470",
+   "330"
+  ],
+  "expected": "With 12 V across 470 \u03a9 over 330 \u03a9 in series, the join sits at 4.95 V and the pair carries 15 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "470",
+   "330"
+  ],
+  "expected": "With 12 V across 470 \u03a9 and 330 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 61.9 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "230.5",
+   "1",
+   "1"
+  ],
+  "expected": "With 230.5 V across 1 \u03a9 over 1 \u03a9 in series, the join sits at 115.25 V and the pair carries 115250 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "230.5",
+   "1",
+   "1"
+  ],
+  "expected": "With 230.5 V across 1 \u03a9 and 1 \u03a9 side by side, the pair acts like 0.5 \u03a9 and draws 461000 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "230.5",
+   "330",
+   "470"
+  ],
+  "expected": "With 230.5 V across 330 \u03a9 over 470 \u03a9 in series, the join sits at 135.42 V and the pair carries 288.13 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "230.5",
+   "330",
+   "470"
+  ],
+  "expected": "With 230.5 V across 330 \u03a9 and 470 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 1188.91 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "230.5",
+   "100",
+   "10000"
+  ],
+  "expected": "With 230.5 V across 100 \u03a9 over 10000 \u03a9 in series, the join sits at 228.22 V and the pair carries 22.82 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "230.5",
+   "100",
+   "10000"
+  ],
+  "expected": "With 230.5 V across 100 \u03a9 and 10000 \u03a9 side by side, the pair acts like 99.01 \u03a9 and draws 2328.05 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "230.5",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 230.5 V across 0.01 \u03a9 over 0.02 \u03a9 in series, the join sits at 153.67 V and the pair carries 7683333.33 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "230.5",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 230.5 V across 0.01 \u03a9 and 0.02 \u03a9 side by side, the pair acts like 0.01 \u03a9 and draws 34575000 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "230.5",
+   "470",
+   "330"
+  ],
+  "expected": "With 230.5 V across 470 \u03a9 over 330 \u03a9 in series, the join sits at 95.08 V and the pair carries 288.13 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "230.5",
+   "470",
+   "330"
+  ],
+  "expected": "With 230.5 V across 470 \u03a9 and 330 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 1188.91 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1000",
+   "1",
+   "1"
+  ],
+  "expected": "With 1000 V across 1 \u03a9 over 1 \u03a9 in series, the join sits at 500 V and the pair carries 500000 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1000",
+   "1",
+   "1"
+  ],
+  "expected": "With 1000 V across 1 \u03a9 and 1 \u03a9 side by side, the pair acts like 0.5 \u03a9 and draws 2000000 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1000",
+   "330",
+   "470"
+  ],
+  "expected": "With 1000 V across 330 \u03a9 over 470 \u03a9 in series, the join sits at 587.5 V and the pair carries 1250 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1000",
+   "330",
+   "470"
+  ],
+  "expected": "With 1000 V across 330 \u03a9 and 470 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 5157.96 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1000",
+   "100",
+   "10000"
+  ],
+  "expected": "With 1000 V across 100 \u03a9 over 10000 \u03a9 in series, the join sits at 990.1 V and the pair carries 99.01 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1000",
+   "100",
+   "10000"
+  ],
+  "expected": "With 1000 V across 100 \u03a9 and 10000 \u03a9 side by side, the pair acts like 99.01 \u03a9 and draws 10100 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1000",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 1000 V across 0.01 \u03a9 over 0.02 \u03a9 in series, the join sits at 666.67 V and the pair carries 33333333.33 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1000",
+   "0.01",
+   "0.02"
+  ],
+  "expected": "With 1000 V across 0.01 \u03a9 and 0.02 \u03a9 side by side, the pair acts like 0.01 \u03a9 and draws 150000000 mA in all."
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1000",
+   "470",
+   "330"
+  ],
+  "expected": "With 1000 V across 470 \u03a9 over 330 \u03a9 in series, the join sits at 412.5 V and the pair carries 1250 mA."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1000",
+   "470",
+   "330"
+  ],
+  "expected": "With 1000 V across 470 \u03a9 and 330 \u03a9 side by side, the pair acts like 193.88 \u03a9 and draws 5157.96 mA in all."
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "0",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "0",
+   "470",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0",
+   "470",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1001",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1001",
+   "470",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1001",
+   "470",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "0"
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "12",
+   "0",
+   "470"
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "470",
+   "0"
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "10000001"
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "12",
+   "10000001",
+   "470"
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "470",
+   "10000001"
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "1.234",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "1.234",
+   "470",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.234",
+   "470",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   "1.234"
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "12",
+   "1.234",
+   "470"
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "470",
+   "1.234"
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "x",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "x",
+   "470",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "x",
+   "470",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "12",
+   ""
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "12",
+   "",
+   "470"
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "470",
+   ""
+  ],
+  "expected": "ERR:each resistance must be from 0.01 to 10000000 \u03a9 with at most two decimal places"
+ },
+ {
+  "fn": "lawTruth",
+  "args": [
+   "",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "dividerTruth",
+  "args": [
+   "",
+   "470",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "",
+   "470",
+   "470"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ }
+]
