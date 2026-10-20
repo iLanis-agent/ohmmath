@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ohm Math - resistor arithmetic</title>
+<style>
+  :root { --accent:#8a6d10; --ink:#2f2707; --paper:#faf7ea; --soft:#f3ecd2; }
+  * { box-sizing:border-box; margin:0; }
+  body { font-family:Georgia, "Times New Roman", serif; background:var(--paper); color:var(--ink); line-height:1.55; }
+  main { max-width:660px; margin:0 auto; }
+  .boundary { background:#fdeaea; border-left:6px solid #b03030; color:#5c1c1c; border-radius:6px; padding:1rem 1.1rem; }
+  .boundary strong { display:block; margin-bottom:.3rem; }
+  body { padding:2.5rem 1.2rem; }
+  h1 { font-size:2.2rem; color:var(--accent); }
+  p.lede { font-size:1.12rem; margin:.9rem 0 1.6rem; }
+  .boundary { margin-bottom:1.6rem; }
+  section { background:var(--soft); border-left:5px solid var(--accent); border-radius:6px; padding:1.1rem 1.2rem; margin-bottom:1.2rem; }
+  h2 { font-size:1.18rem; margin-bottom:.5rem; }
+  section p { font-size:.98rem; }
+  a.btn { display:inline-block; margin-top:1.4rem; background:var(--accent); color:#fff; text-decoration:none; padding:.8rem 1.6rem; border-radius:999px; font-size:1.05rem; }
+  footer { margin-top:2.2rem; font-size:.85rem; color:#97854f; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Ohm Math</h1>
+  <p class="lede">12 V across 470 Ω carries 25.53 mA and turns 0.31 W into heat. Swapped into a divider with 330 Ω, the join sits at 7.05 V.</p>
+  <div class="boundary">
+    <strong>Boundary: arithmetic only</strong>
+    Ohm Math works out volts, ohms, milliamps and watts from the numbers you type. The voltage and the resistances are yours to measure or read off your own circuit. It treats every resistor as exact and cool and every source as steady, so it has not seen your circuit and does not know the parts' tolerance or heat, the source's behavior, the wiring or what anything is rated for, and it gives no verdict that a circuit is adequate or safe. Every number is your own entry.
+  </div>
+  <p class="lede" style="font-size:1rem">Starting examples: 12 V across 470 Ω, then 330 Ω over 470 Ω in series and side by side.</p>
+  <section>
+    <h2>The law truth</h2>
+    <p>12 V across 470 Ω carries 25.53 mA and turns 0.31 W into heat.</p>
+  </section>
+  <section>
+    <h2>The divider truth</h2>
+    <p>With 12 V across 330 Ω over 470 Ω in series, the join sits at 7.05 V and the pair carries 15 mA.</p>
+  </section>
+  <section>
+    <h2>The parallel truth</h2>
+    <p>With 12 V across 330 Ω and 470 Ω side by side, the pair acts like 193.88 Ω and draws 61.9 mA in all.</p>
+  </section>
+  <a class="btn" href="app.html">Run your circuit</a>
+  <footer>Ohm Math is exact arithmetic over the numbers you enter, nothing more.</footer>
+</main>
+</body>
+</html>
